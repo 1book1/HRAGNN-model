@@ -21,7 +21,7 @@ Experimental results show that this model has better results than other integrat
 - **scikit-learn**
 - **numpy**
 
-# Datas
+# Dataset
 Invasive breast cancer (BRCA) and glioblastoma multiforme (GBM) cancer samples, all datasets are publicly available on the TCGA website([https://www.cancer.gov](https://www.cancer.gov)). Each multiomics data is classified into four different subtypes. We also uploaded our preprocessed data into ``datas`` file.
 
 # Running
@@ -37,6 +37,6 @@ Use the following command to get the training results:
 ```
 Python train_test.py
 ```
-# Reluts
+# Result
 The classification results are obtained after the end of the operation. You can evaluate results using four external performance metrics: Precision, Accuracy, Recall and F1 score, which proves the accuracy of classification.
 

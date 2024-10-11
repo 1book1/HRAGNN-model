@@ -40,3 +40,8 @@ Python train_test.py
 # Result
 The classification results are obtained after the end of the operation. You can evaluate results using four external performance metrics: Precision, Accuracy, Recall and F1 score, which proves the accuracy of classification.
 
+# Ethics statement
+The manuscript presents research on animals that do not require ethical approval for their study.
+
+# Competing interests
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
